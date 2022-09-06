@@ -1,0 +1,1378 @@
+﻿Log file open, 09/06/22 18:20:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6176)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Valo
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/unreal Projects/Valo/Valo.uproject" -EpicPortal -epicusername=themrdocx -epicuserid=06ead256db52430da74943c880b03853 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e4b80b6e4bf4664319dc97a0c440c186"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.888391
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D7A8E27E4218160FC0E02CB4BD3643D6
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) (), CPU: AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics 
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=themrdocx -epicuserid=06ead256db52430da74943c880b03853 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.06-12.50.49:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.06-12.50.49:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.06-12.50.49:520][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.06-12.50.49:524][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.06-12.50.49:524][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.06-12.50.49:524][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.06-12.50.49:525][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.06-12.50.49:651][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.06-12.50.49:651][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.06-12.50.51:315][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.06-12.50.51:315][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 5058MB of shared system memory, 1 output[s]
+[2022.09.06-12.50.51:846][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Vega 8 Graphics (Max supported Feature Level 12_1, shader model 6.4)
+[2022.09.06-12.50.51:848][  0]LogD3D12RHI: Adapter has 2033MB of dedicated video memory, 0MB of dedicated system memory, and 5058MB of shared system memory, 1 output[s]
+[2022.09.06-12.50.51:999][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.06-12.50.51:999][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 5058MB of shared system memory, 0 output[s]
+[2022.09.06-12.50.51:999][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.06-12.50.51:999][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.06-12.50.51:999][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.06-12.50.52:000][  0]LogHAL: Display: Platform has ~ 10 GB [10608893952 / 17179869184 / 10], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.06-12.50.52:000][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.06-12.50.52:000][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2022.09.06-12.50.52:000][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.06-12.50.52:000][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.06-12.50.52:001][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.06-12.50.52:001][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal Projects/Valo/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.06-12.50.52:001][  0]LogInit: Computer: ARJUN
+[2022.09.06-12.50.52:001][  0]LogInit: User: hp
+[2022.09.06-12.50.52:001][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.06-12.50.52:001][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.06-12.50.52:001][  0]LogMemory: Memory total: Physical=9.9GB (10GB approx)
+[2022.09.06-12.50.52:001][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.06-12.50.52:001][  0]LogMemory: Process Physical Memory: 261.17 MB used, 275.20 MB peak
+[2022.09.06-12.50.52:001][  0]LogMemory: Process Virtual Memory: 205.93 MB used, 205.93 MB peak
+[2022.09.06-12.50.52:002][  0]LogMemory: Physical Memory: 7165.45 MB used,  2951.98 MB free, 10117.43 MB total
+[2022.09.06-12.50.52:002][  0]LogMemory: Virtual Memory: 11508.90 MB used,  11408.53 MB free, 22917.43 MB total
+[2022.09.06-12.50.52:002][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.06-12.50.52:012][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.06-12.50.52:035][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.06-12.50.52:036][  0]LogInit: Using OS detected language (en-US).
+[2022.09.06-12.50.52:036][  0]LogInit: Using OS detected locale (en-001).
+[2022.09.06-12.50.52:039][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.06-12.50.52:319][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.06-12.50.52:338][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.06-12.50.52:338][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.06-12.50.52:338][  0]LogWindowsTextInputMethodSystem:   - English (World) - (Keyboard).
+[2022.09.06-12.50.52:338][  0]LogWindowsTextInputMethodSystem:   - Malayalam (India) - (Keyboard).
+[2022.09.06-12.50.52:338][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.09.06-12.50.52:338][  0]LogWindowsTextInputMethodSystem:   - English (World) - Touch Input Correction (TSF IME).
+[2022.09.06-12.50.52:338][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.06-12.50.52:384][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.06-12.50.52:384][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.06-12.50.52:599][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.06-12.50.52:709][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.06-12.50.52:709][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.06-12.50.53:199][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.06-12.50.54:254][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.06-12.50.54:270][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.06-12.50.54:321][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.06-12.50.54:980][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.06-12.50.54:980][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.06-12.50.55:024][  0]LogD3D12RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.06-12.50.55:025][  0]LogWindows: EnumDisplayDevices:
+[2022.09.06-12.50.55:025][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:1)
+[2022.09.06-12.50.55:025][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2022.09.06-12.50.55:026][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2022.09.06-12.50.55:026][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2022.09.06-12.50.55:026][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2022.09.06-12.50.55:027][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.09.06-12.50.55:027][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.09.06-12.50.55:027][  0]LogD3D12RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2022.09.06-12.50.55:027][  0]LogD3D12RHI:      Driver Date: 5-5-2022
+[2022.09.06-12.50.55:027][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.09.06-12.50.55:027][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.06-12.50.55:027][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.06-12.50.55:049][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.06-12.50.55:057][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/unreal Projects/Valo/Valo.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/unreal Projects/Valo/Intermediate/TurnkeyReport_0.log" -log="D:/unreal Projects/Valo/Intermediate/TurnkeyLog_0.log" -project="D:/unreal Projects/Valo/Valo.uproject"  -platform=all'
+[2022.09.06-12.50.55:057][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/unreal Projects/Valo/Valo.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/unreal Projects/Valo/Intermediate/TurnkeyReport_0.log" -log="D:/unreal Projects/Valo/Intermediate/TurnkeyLog_0.log" -project="D:/unreal Projects/Valo/Valo.uproject"  -platform=all" ]
+[2022.09.06-12.50.55:096][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.06-12.50.55:110][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.06-12.50.55:110][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.06-12.50.55:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.06-12.50.55:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.06-12.50.55:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.06-12.50.55:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.06-12.50.55:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.06-12.50.55:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.06-12.50.55:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.06-12.50.55:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.06-12.50.55:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.06-12.50.55:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.06-12.50.55:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.06-12.50.55:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.06-12.50.55:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.06-12.50.55:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.06-12.50.55:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.06-12.50.55:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.06-12.50.55:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.06-12.50.55:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.06-12.50.55:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.06-12.50.55:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.06-12.50.55:198][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.06-12.50.55:212][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.06-12.50.55:216][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.06-12.50.55:217][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.06-12.50.55:217][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.06-12.50.55:217][  0]LogTargetPlatformManager:   PCM
+[2022.09.06-12.50.55:221][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.06-12.50.55:221][  0]LogTargetPlatformManager:   BINKA
+[2022.09.06-12.50.55:221][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.06-12.50.55:221][  0]LogTargetPlatformManager:   OGG
+[2022.09.06-12.50.55:221][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.06-12.50.55:221][  0]LogTargetPlatformManager:   OPUS
+[2022.09.06-12.50.55:284][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.06-12.50.55:293][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.06-12.50.55:300][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.06-12.50.55:300][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.06-12.50.55:300][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.06-12.50.55:300][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.06-12.50.55:300][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.06-12.50.55:300][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.06-12.50.55:300][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.06-12.50.55:300][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.06-12.50.55:300][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../unreal Projects/Valo/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.06-12.50.55:337][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.06-12.50.55:338][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../unreal Projects/Valo/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.06-12.50.55:443][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.06-12.50.55:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../unreal Projects/Valo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.06-12.50.55:448][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.06-12.50.55:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../unreal Projects/Valo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.06-12.50.55:448][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.06-12.50.55:479][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.09.06-12.50.55:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.06-12.50.55:479][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.06-12.50.55:549][  0]LogDerivedDataCache: Speed tests for C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2022.09.06-12.50.55:549][  0]LogDerivedDataCache: Display: Performance to C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=132.40MBs, RandomWriteSpeed=15.18MBs. Assigned SpeedClass 'Local'
+[2022.09.06-12.50.55:553][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.06-12.50.55:553][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.06-12.50.55:553][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.06-12.50.55:571][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.06-12.50.55:571][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.06-12.50.55:572][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../../unreal Projects/Valo/Intermediate/Shaders/WorkingDirectory/9772/).
+[2022.09.06-12.50.55:573][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hp/AppData/Local/Temp/UnrealShaderWorkingDir/0C6AFCB546D1BBD335DBA9A37085BA64/'.
+[2022.09.06-12.50.55:573][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.06-12.50.55:573][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.06-12.50.57:838][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.06-12.50.57:838][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.06-12.50.57:838][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.06-12.50.58:705][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2022.09.06-12.50.58:712][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.06-12.50.58:972][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.06-12.50.58:973][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.06-12.50.59:422][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.06-12.50.59:422][  0]LogDeviceProfileManager: Active device profile: [00000A9894AF5940][00000A9887F0A000 50] WindowsEditor
+[2022.09.06-12.50.59:422][  0]LogDeviceProfileManager: Profiles: [00000A9894AF5400][00000A9887F02800 50] Windows, [00000A9894AF5940][00000A9887F0A000 50] WindowsEditor, [00000A9894AF3480][00000A988E7CC800 50] WindowsServer, [00000A9894AF16C0][00000A9887EB7800 50] WindowsClient, [00000A9894AF5240][00000A987D5C7800 50] IOS, [00000A9894AF5B00][00000A988E7CA000 50] iPadAir2, [00000A9894AF4440][00000A9894CD0000 50] IPadPro, [00000A9894AF6040][00000A9894CD2800 50] iPadAir3, [00000A9894AF5080][00000A9894CD7800 50] iPadAir4, [00000A9894AF2300][00000A9894CDA000 50] iPadMini4, [00000A9894AF3800][00000A9894CDC800 50] iPadMini5, [00000A9894AF1DC0][00000A9887F00000 50] iPadMini6, [00000A9894AF8880][00000A9894CE2800 50] iPhone6S, [00000A9894AF8C00][00000A9894CE0000 50] iPhone7, [00000A9894AF8500][00000A9894CE5000 50] iPodTouch7, [00000A9894AF1180][00000A9894CEA000 50] iPhone6SPlus, [00000A9894AF2840][00000A9894CEC800 50] iPhone7Plus, [00000A9894AF63C0][00000A9894CD5000 50] iPhoneSE, [00000A9894AF7540][00000A9894CE7800 50] iPhone8, [00000A9894AF4EC0][00000A9894CF0000 50] iPhone8Plus, [00000A9894AF3D40][00000A9894CF5000 50] iPhoneX, [00000A9894AF5780][00000A9894CF7800 50] iPhoneXS, [00000A9894AF7C40][00000A9894CFA000 50] iPhoneXSMax, [00000A9894AF4980][00000A9894CFC800 50] iPhoneXR, [00000A9894AF2680][00000A9887EB5000 50] iPhone11, [00000A9894AF32C0][00000A9894D10000 50] iPhone11Pro, [00000A9894AF5E80][00000A9894D15000 50] iPhone11ProMax, [00000A9894AF1500][00000A9894D17800 50] iPhoneSE2, [00000A9894AF2D80][00000A9894D1A000 50] iPhone12Mini, [00000A9894AF24C0][00000A9894D1C800 50] iPhone12, [00000A9894AF7000][00000A9894CF2800 50] iPhone12Pro, [00000A9894AF4280][00000A9894D20000 50] iPhone12ProMax, [00000A9894AF1880][00000A9894D25000 50] iPhone13Mini, [00000A9894AF01C0][00000A9894D27800 50] iPhone13, [00000A9894AF1F80][00000A9894D2A000 50] iPhone13Pro, [00000A9894AF86C0][00000A9894D2C800 50] iPhone13ProMax, [00000A9894AF2140][00000A9894D12800 50] iPadPro105, [00000A9894AF2F40][00000A9894D30000 50] iPadPro129, [00000A9894AF7FC0][00000A9894D35000 50] iPadPro97, [00000A9894AF47C0][00000A9894D37800 50] iPadPro2_129, [00000A9894AF40C0][00000A9894D3A000 50] iPad5, [00000A9894AF6900][00000A9894D3C800 50] iPad6, [00000A9894AF6740][00000A9894D22800 50] iPad7, [00000A9894AF1C00][00000A9894D40000 50] iPad8, [00000A9894AF6C80][00000A9894D45000 50] iPad9, [00000A9894AF6AC0][00000A9894D47800 50] iPadPro11, [00000A9894AF1A40][00000A9894D4A000 50] iPadPro2_11, [00000A9894AF3640][00000A9894D4C800 50] iPadPro3_11, [00000A9894AF7700][00000A9894D32800 50] iPadPro3_129, [00000A9894AF39C0][00000A9894D50000 50] iPadPro4_129, [00000A9894AF4D00][00000A9894D55000 50] iPadPro5_129, [00000A9894AF2BC0][00000A9894D57800 50] AppleTV, [00000A9894AF7380][00000A9894D5A000 50] AppleTV4K, [00000A9894AF8A40][00000A9894D5C800 50] TVOS, [00000A9894AFB0C0][00000A9894D60000 50] Mac, [00000A9894AFB440][00000A9894D62800 50] MacEditor, [00000A9894AF1340][00000A9894D67800 50] MacClient, [00000A9894AF8180][00000A9894D6A000 50] MacServer, [00000A9894AF3B80][00000A9894D42800 50] Linux, [00000A9894AF6E40][00000A9894D52800 50] LinuxEditor, [00000A9894AFA640][00000A9894D6C800 50] LinuxArm64Editor, [00000A9894AF2A00][00000A9894D70000 50] LinuxArm64, [00000A9894AFB280][00000A9894D75000 50] LinuxClient, [00000A9894AF7E00][00000A9894D77800 50] LinuxArm64Client, [00000A9894AFA2C0][00000A9894D7A000 50] LinuxServer, [00000A9894AF8DC0][00000A9894D7C800 50] LinuxArm64Server, [00000A9894AF8F80][00000A9894D65000 50] Android, [00000A9894AF3100][00000A9894D80000 50] Android_Preview_OpenGL, [00000A9894AF4B40][00000A9894D85000 50] Android_Preview_Vulkan, [00000A9894AF94C0][00000A9894D87800 50] Android_Low, [00000A9894AF9D80][00000A9894D8A000 50] Android_Mid, [00000A9894AF9840][00000A9894D8C800 50] Android_High, [00000A9894AF4600][00000A9894D72800 50] Android_Default, [00000A9894AFAB80][00000A9894D90000 50] Android_Adreno4xx, [00000A9894AF9A00][00000A9894D95000 50] Android_Adreno5xx_Low, [00000A9894AF9BC0][00000A9894D97800 50] Android_Adreno5xx, [00000A9894AFAD40][00000A9894D9A000 50] Android_Adreno6xx, [00000A9894AF9140][00000A9894D9C800 50] Android_Adreno6xx_Vulkan, [00000A9894AFB600][00000A9894D82800 50] Android_Adreno7xx, [00000A9894AF6200][00000A9894DA0000 50] Android_Adreno7xx_Vulkan, [00000A9894AF7A80][00000A9894DA5000 50] Android_Mali_T6xx, [00000A9894AFC400][00000A9894DA7800 50] Android_Mali_T7xx, [00000A9894AF3F00][00000A9894DAA000 50] Android_Mali_T8xx, [00000A9894AF0FC0][00000A9894DAC800 50] Android_Mali_G71, [00000A9894AF78C0][00000A9894D92800 50] Android_Mali_G72, [00000A9894AFC5C0][00000A9894DB0000 50] Android_Mali_G72_Vulkan, [00000A9894AFA100][00000A9894DB5000 50] Android_Mali_G76, [00000A9894AFC940][00000A9894DB7800 50] Android_Mali_G76_Vulkan, [00000A9894AF9680][00000A9894DBA000 50] Android_Mali_G77, [00000A9894AFB7C0][00000A9894DBC800 50] Android_Mali_G77_Vulkan, [00000A9894AFD3C0][00000A9894DA2800 50] Android_Mali_G78, [00000A9894AFAF00][00000A9894DC0000 50] Android_Mali_G78_Vulkan, [00000A9894AF6580][00000A9894DC5000 50] Android_Mali_G710, [00000A9894AFA9C0][00000A9894DC7800 50] Android_Mali_G710_Vulkan, [00000A9894AFD580][00000A9894DCA000 50] Android_Xclipse_920, [00000A9894AFBB40][00000A9894DCC800 50] Android_Xclipse_920_Vulkan, [00000A9894AFD900][00000A9894DB2800 50] Android_Vulkan_SM5, [00000A9894AFC240][00000A9894DD0000 50] Android_PowerVR_G6xxx, [00000A9894AFE380][00000A9894DD5000 50] Android_PowerVR_GT7xxx, [00000A9894AF71C0][00000A9894DD7800 50] Android_PowerVR_GE8xxx, [00000A9894AFCE80][00000A9894DDA000 50] Android_PowerVR_GM9xxx, [00000A9894AFBEC0][00000A9894DDC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A9894AFE540][00000A9894DC2800 50] Android_TegraK1, [00000A9894AFD200][00000A9894DE0000 50] Android_Unknown_Vulkan, [00000A9894AFE8C0][00000A9894DE5000 50] Oculus_Quest, [00000A9894AFBD00][00000A9894DE7800 50] Oculus_Quest2, [00000A9894AFCCC0][00000A9894DEA000 50] HoloLens, 
+[2022.09.06-12.50.59:422][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.06-12.50.59:428][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.09.06-12.50.59:428][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.06-12.50.59:428][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.06-12.50.59:428][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.06-12.50.59:428][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.16299.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.06-12.50.59:803][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.06-12.51.00:147][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.06-12.51.00:147][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.06-12.51.00:147][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.06-12.51.00:147][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.06-12.51.00:147][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.06-12.51.00:174][  0]LogNetVersion: Valo 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3148074853)
+[2022.09.06-12.51.00:437][  0]LogSlate: Border
+[2022.09.06-12.51.00:437][  0]LogSlate: BreadcrumbButton
+[2022.09.06-12.51.00:437][  0]LogSlate: Default
+[2022.09.06-12.51.00:437][  0]LogSlate: Icons.Save
+[2022.09.06-12.51.00:437][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.06-12.51.00:437][  0]LogSlate: ListView
+[2022.09.06-12.51.00:437][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.06-12.51.00:437][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.06-12.51.00:437][  0]LogSlate: TableView.DarkRow
+[2022.09.06-12.51.00:437][  0]LogSlate: TableView.Row
+[2022.09.06-12.51.00:437][  0]LogSlate: TreeView
+[2022.09.06-12.51.03:248][  0]SourceControl: Source control is disabled
+[2022.09.06-12.51.04:268][  0]SourceControl: Source control is disabled
+[2022.09.06-12.51.04:268][  0]SourceControl: Source control is disabled
+[2022.09.06-12.51.04:433][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.06-12.51.04:433][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.09.06-12.51.04:433][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.06-12.51.04:937][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B70B0B00419AE6C3C47D55B130C035AA | Instance: F12F8031410D7B35AAD3F3AAA42AB184 (ARJUN-9772).
+[2022.09.06-12.51.04:989][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.06-12.51.04:995][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.06-12.51.05:013][  0]LogPython: Using Python 3.9.7
+[2022.09.06-12.51.08:484][  0]SourceControl: Source control is disabled
+[2022.09.06-12.51.08:487][  0]SourceControl: Source control is disabled
+[2022.09.06-12.51.08:498][  0]SourceControl: Source control is disabled
+[2022.09.06-12.51.08:511][  0]LogUProjectInfo: Found projects:
+[2022.09.06-12.51.08:738][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.06-12.51.08:784][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.06-12.51.08:817][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.06-12.51.08:817][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.06-12.51.08:948][  0]LogCollectionManager: Loaded 0 collections in 0.000983 seconds
+[2022.09.06-12.51.09:065][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects/Valo/Saved/Collections/' took 0.00s
+[2022.09.06-12.51.09:065][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects/Valo/Content/Developers/hp/Collections/' took 0.00s
+[2022.09.06-12.51.09:065][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects/Valo/Content/Collections/' took 0.00s
+[2022.09.06-12.51.09:506][  0]LogEngine: Initializing Engine...
+[2022.09.06-12.51.09:526][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.06-12.51.09:761][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.06-12.51.10:130][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.06-12.51.10:131][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.06-12.51.10:145][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.06-12.51.10:189][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.06-12.51.10:191][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.06-12.51.10:223][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.06-12.51.10:224][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.06-12.51.10:224][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.06-12.51.10:225][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.06-12.51.10:225][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.06-12.51.10:225][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-12.51.10:225][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-12.51.10:225][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-12.51.10:225][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-12.51.10:225][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-12.51.10:225][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.06-12.51.10:225][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-12.51.10:225][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-12.51.10:225][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.06-12.51.10:225][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.06-12.51.10:225][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.06-12.51.10:236][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.06-12.51.10:271][  0]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2022.09.06-12.51.10:271][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.06-12.51.10:274][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.06-12.51.10:274][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.06-12.51.10:274][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.06-12.51.10:274][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.09.06-12.51.10:276][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.06-12.51.10:276][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.06-12.51.10:276][  0]LogInit: FAudioDevice initialized.
+[2022.09.06-12.51.10:277][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.06-12.51.10:277][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.06-12.51.10:277][  0]LogInit: Texture streaming: Enabled
+[2022.09.06-12.51.10:329][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.09.06-12.51.10:341][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.06-12.51.12:253][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.06-12.51.12:266][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.06-12.51.12:267][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.06-12.52.39:681][  0]LogLiveCoding: Display: First instance in process group "UE_Valo_0x949010fc", spawning console
+[2022.09.06-12.52.39:681][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.06-12.52.39:681][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.06-12.52.41:195][  0]LogInit: Transaction tracking system initialized
+[2022.09.06-12.52.41:354][  0]BlueprintLog: New page: Editor Load
+[2022.09.06-12.52.41:751][  0]LocalizationService: Localization service is disabled
+[2022.09.06-12.52.42:794][  0]TimingProfiler: Initialize
+[2022.09.06-12.52.42:794][  0]TimingProfiler: OnSessionChanged
+[2022.09.06-12.52.42:794][  0]LoadingProfiler: Initialize
+[2022.09.06-12.52.42:794][  0]LoadingProfiler: OnSessionChanged
+[2022.09.06-12.52.42:794][  0]NetworkingProfiler: Initialize
+[2022.09.06-12.52.42:794][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.06-12.52.42:794][  0]MemoryProfiler: Initialize
+[2022.09.06-12.52.42:794][  0]MemoryProfiler: OnSessionChanged
+[2022.09.06-12.52.46:699][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects/Valo/Content/' took 0.01s
+[2022.09.06-12.52.46:699][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.06-12.52.46:832][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.06-12.52.46:834][  0]SourceControl: Source control is disabled
+[2022.09.06-12.52.47:787][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.06-12.52.56:207][  0]LogDerivedDataCache: C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.653 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.06-12.53.17:984][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.09.06-12.53.23:121][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.09.06-12.53.23:128][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Prefabs/Mats/stairmat
+/Game/Prefabs/Mats/underMat
+/Game/Prefabs/Mats/RangeBodyMat
+/Game/Prefabs/Mats/WindowMat
+/Game/Prefabs/Mats/Floor2x3
+/Game/Prefabs/Mats/miniarchwaymat
+/Game/Prefabs/Mats/RangeConeMat
+/Game/Prefabs/Mats/RangeRoofMat
+/Game/Valo
+[2022.09.06-12.53.25:867][  0]LogUnrealEdMisc: Loading editor; pre map load, took 160.254
+[2022.09.06-12.53.25:868][  0]Cmd: MAP LOAD FILE="../../../../../../unreal Projects/Valo/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.06-12.53.25:903][  0]LightingResults: New page: Lighting Build
+[2022.09.06-12.53.25:919][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-12.53.25:919][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-12.53.25:919][  0]MapCheck: New page: Map Check
+[2022.09.06-12.53.25:919][  0]LightingResults: New page: Lighting Build
+[2022.09.06-12.53.25:932][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.06-12.53.25:938][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.09.06-12.53.28:853][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.09.06-12.53.28:864][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.06-12.53.28:866][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.09.06-12.53.28:881][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.06-12.53.28:881][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.06-12.53.33:928][  0]LogWorldPartition: Display: WorldPartition initialize took 5.04 sec
+[2022.09.06-12.53.34:228][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.06-12.53.34:244][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.06-12.53.34:247][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.06-12.53.34:248][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.401ms to complete.
+[2022.09.06-12.53.34:248][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 8.380
+[2022.09.06-12.53.34:337][  0]LogUnrealEdMisc: Total Editor Startup Time, took 168.725
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: ================================================
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 512.00 MB (0.50 GB) budget. Usage: 0.00%
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.06-12.53.34:337][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.06-12.53.34:338][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.06-12.53.34:338][  0]LogShaderCompilers: Display: ================================================
+[2022.09.06-12.53.34:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-12.53.34:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-12.53.34:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-12.53.34:993][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-12.53.35:729][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.06-12.53.35:729][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.35:751][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.06-12.53.35:751][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.35:789][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.06-12.53.35:789][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.35:820][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.06-12.53.35:820][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.35:926][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.06-12.53.35:926][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.35:959][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.06-12.53.35:960][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.35:978][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.06-12.53.35:978][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.36:011][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.06-12.53.36:012][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.36:042][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.06-12.53.36:042][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.36:061][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.06-12.53.36:061][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.06-12.53.40:256][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.06-12.53.40:307][  0]LogSlate: Took 0.021735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.06-12.53.40:352][  0]LogSlate: Took 0.042965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.06-12.53.40:435][  0]LogSlate: Took 0.080657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.06-12.53.41:116][  0]LogSlate: Took 0.070163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.06-12.53.43:457][  0]LogStall: Startup...
+[2022.09.06-12.53.43:460][  0]LogStall: Startup complete.
+[2022.09.06-12.53.43:549][  0]LogLoad: (Engine Initialization) Total time: 177.94 seconds
+[2022.09.06-12.53.43:549][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.06-12.53.43:698][  0]LogAssetRegistry: Asset discovery search completed in 164.9944 seconds
+[2022.09.06-12.53.43:717][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.06-12.53.43:742][  0]LogContentStreaming: Texture pool size now 600 MB
+[2022.09.06-12.54.35:923][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.06-12.54.35:924][748]Cmd: MAP LOAD FILE="../../../../../../unreal Projects/Valo/Content/Valo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.06-12.54.35:925][748]LightingResults: New page: Lighting Build
+[2022.09.06-12.54.35:925][748]LoadErrors: New page: Loading map: Valo.umap
+[2022.09.06-12.54.36:651][748]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-12.54.36:652][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-12.54.36:656][748]MapCheck: New page: Map Check
+[2022.09.06-12.54.36:656][748]LightingResults: New page: Lighting Build
+[2022.09.06-12.54.36:665][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.06-12.54.36:766][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.06-12.54.38:653][748]LogLinker: Warning: [AssetLog] D:\unreal Projects\Valo\Content\Prefabs\Layout\Details\grass_LP.uasset: Failed to load '/Game/Prefabs/Layout/Details/grassMat': Can't find file.
+[2022.09.06-12.54.38:654][748]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Prefabs/Layout/Details/grassMat'
+[2022.09.06-12.54.38:905][748]LogLinker: Warning: [AssetLog] D:\unreal Projects\Valo\Content\Prefabs\Layout\Details\smallstairs_LP_smallstairsoutside.uasset: Failed to load '/Game/Prefabs/Layout/Details/Stairs_material': Can't find file.
+[2022.09.06-12.54.38:905][748]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Prefabs/Layout/Details/Stairs_material'
+[2022.09.06-12.54.39:324][748]LogLinker: Warning: [AssetLog] D:\unreal Projects\Valo\Content\Prefabs\outstairs.uasset: Failed to load '/Game/Prefabs/Stairs_material': Can't find file.
+[2022.09.06-12.54.39:324][748]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Prefabs/Stairs_material'
+[2022.09.06-12.54.39:362][748]LogLinker: Warning: [AssetLog] D:\unreal Projects\Valo\Content\Prefabs\pots_Cylinder.uasset: Failed to load '/Game/Prefabs/potsMat': Can't find file.
+[2022.09.06-12.54.39:362][748]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Prefabs/potsMat'
+[2022.09.06-12.54.39:802][748]LogLinker: Warning: [AssetLog] D:\unreal Projects\Valo\Content\Prefabs\rangeBase.uasset: Failed to load '/Game/Prefabs/RangeBodyMat': Can't find file.
+[2022.09.06-12.54.39:802][748]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Prefabs/RangeBodyMat'
+[2022.09.06-12.54.39:861][748]LogLinker: Warning: [AssetLog] D:\unreal Projects\Valo\Content\Prefabs\rangeCone.uasset: Failed to load '/Game/Prefabs/RangeConeMat': Can't find file.
+[2022.09.06-12.54.39:861][748]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Prefabs/RangeConeMat'
+[2022.09.06-12.54.42:283][748]LogAudio: Display: Audio Device (ID: 1) registered with world 'Valo'.
+[2022.09.06-12.54.42:283][748]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.06-12.54.42:283][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.06-12.54.42:284][748]LogAIModule: Creating AISystem for world Valo
+[2022.09.06-12.55.06:246][748]LogEditCondition: Error: EditCondition attempted to use an invalid operand "WorldPartition".
+[2022.09.06-12.55.06:663][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.06-12.55.06:694][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.06-12.55.06:722][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.06-12.55.06:722][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2022.09.06-12.55.06:722][748]LogFileHelpers: Loading map 'Valo' took 30.797
+[2022.09.06-12.55.06:742][748]LogSlate: Window 'Open Level' being destroyed
+[2022.09.06-12.55.07:263][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.55.07:279][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-12.55.07:285][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-12.55.07:286][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-12.55.07:287][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-12.55.07:287][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-12.55.07:287][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-12.55.07:287][748]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-12.55.08:227][751]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.06-12.55.23:437][257]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.09.06-12.55.23:437][257]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.09.06-12.55.23:437][257]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.09.06-12.55.23:437][257]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.09.06-12.55.23:437][257]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.09.06-12.55.23:437][257]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.09.06-12.55.23:437][257]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.09.06-12.55.23:438][257]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.09.06-12.55.23:438][257]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.09.06-12.55.23:438][257]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.09.06-12.55.23:438][257]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.06-12.55.23:481][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-12.55.23:481][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-12.55.23:481][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-12.55.23:483][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-12.55.23:483][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-12.55.23:483][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-12.55.23:483][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-12.55.23:484][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.55.28:067][260]LogContentStreaming: Texture pool size now 800 MB
+[2022.09.06-12.56.14:413][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-12.56.14:541][414]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:497][552]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:534][553]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:726][560]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:755][561]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:778][562]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:812][563]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:844][564]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:876][565]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.17:909][566]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.18:525][571]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.18:542][572]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:453][784]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:477][785]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:495][786]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:539][787]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:576][788]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:617][789]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:652][790]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:689][791]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:729][792]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:763][793]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:800][794]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:833][795]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:867][796]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:901][797]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:938][798]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.23:973][799]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:011][800]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:046][801]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:079][802]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:111][803]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:146][804]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:178][805]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:216][806]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:395][814]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:418][815]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:448][816]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:481][817]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:513][818]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:543][819]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:580][820]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:617][821]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:650][822]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:686][823]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:718][824]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.24:839][825]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:230][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Prefabs/Layout/Details/grass_LP.grass_LP
+[2022.09.06-12.56.25:231][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Prefabs/Layout/Details/grass_LP.grass_LP
+[2022.09.06-12.56.25:239][830]LogActorFactory: Actor Factory spawned StaticMesh /Game/Prefabs/Layout/Details/grass_LP.grass_LP as actor: StaticMeshActor /Game/Valo.Valo:PersistentLevel.StaticMeshActor_0
+[2022.09.06-12.56.25:239][830]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:239][830]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:248][830]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:354][830]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:422][832]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:452][833]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:490][835]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:519][836]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:541][837]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:569][838]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:595][839]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:677][844]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.25:712][845]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:146][847]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:155][848]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:189][849]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:211][850]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:235][851]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:269][853]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:312][855]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:483][865]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:505][866]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:548][868]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:576][869]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:600][870]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:628][871]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:655][872]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:688][874]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:729][876]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.26:831][881]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:013][892]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:054][894]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:114][896]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:150][898]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:177][899]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:195][900]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:238][902]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:304][906]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:352][908]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:387][910]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:433][912]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:481][914]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.27:514][916]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:199][957]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:228][958]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:262][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:296][961]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:331][962]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:354][963]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:381][964]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:412][965]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:449][967]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:476][968]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:498][969]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:512][970]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:528][971]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:581][972]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:599][973]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:614][974]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:774][975]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:800][976]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:832][977]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:850][978]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:900][980]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:956][983]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.28:982][984]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:014][985]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:183][986]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:222][988]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:260][990]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:313][992]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:347][994]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:392][996]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:420][997]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:453][998]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:501][  1]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:535][  3]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:754][ 13]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Prefabs/Layout/Details/grass_LP.grass_LP
+[2022.09.06-12.56.29:754][ 13]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Prefabs/Layout/Details/grass_LP.grass_LP
+[2022.09.06-12.56.29:792][ 13]LogActorFactory: Actor Factory spawned StaticMesh /Game/Prefabs/Layout/Details/grass_LP.grass_LP as actor: StaticMeshActor /Game/Valo.Valo:PersistentLevel.StaticMeshActor_1
+[2022.09.06-12.56.29:793][ 13]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.29:793][ 13]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.30:182][ 13]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.30:207][ 13]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.30:488][ 14]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.39:214][368]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.45:230][632]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.56.46:888][694]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.06-12.57.01:688][315]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass needed to have new flag set bUsedWithNanite !
+[2022.09.06-12.57.01:695][315]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: EDD56691B9F1BB5A419464795EA7F383EEAEB8BA), compiling. 
+[2022.09.06-12.57.02:025][315]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2652 in PCD3D_SM5, Default, SM5 (DDC key hash: 08A9BE2183C98093C78E9458EF50FF05E32F95F0), compiling. 
+[2022.09.06-12.57.44:317][490]LogShaderCompilers: Display: ================================================
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Total job queries 47, among them cache hits 0 (0.00%)
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 512.00 MB (0.50 GB) budget. Usage: 0.01%
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Shaders Compiled: 41
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Jobs assigned 41, completed 10 (24.39%)
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Time job spent in pending queue: average 1.06 s, longest 41.99 s
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Job execution time: average 42.04 s, max 42.04 s
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Job life time (pending + execution): average 42.07 s, max 42.07
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.07 s
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 8.20 jobs/batch
+[2022.09.06-12.57.44:318][490]LogShaderCompilers: Display: Average processing rate: 0.24 jobs/sec
+[2022.09.06-12.57.44:335][490]LogShaderCompilers: Display: Effective parallelization: 0.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 10.01 sec, max 10.01 sec, min 10.01 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 4.52 sec, max 4.52 sec, min 4.52 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 4.32 sec, max 4.32 sec, min 4.32 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 3.47 sec, max 3.47 sec, min 3.47 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 3.33 sec, max 3.33 sec, min 3.33 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 25.66% of total time (compiled    1 times, average 10.01 sec, max 10.01 sec, min 10.01 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 11.59% of total time (compiled    1 times, average 4.52 sec, max 4.52 sec, min 4.52 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 11.07% of total time (compiled    1 times, average 4.32 sec, max 4.32 sec, min 4.32 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 8.90% of total time (compiled    1 times, average 3.47 sec, max 3.47 sec, min 3.47 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 8.53% of total time (compiled    1 times, average 3.33 sec, max 3.33 sec, min 3.33 sec)
+[2022.09.06-12.57.44:336][490]LogShaderCompilers: Display: ================================================
+[2022.09.06-12.58.03:926][959]LogShaderCompilers: Display: Worker (1/5) finished batch of 10 jobs in 61.886s, TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=10.516s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=9.958s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=8.079s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=7.191s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=6.762s], FDebugViewModePS [WorkerTime=5.531s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=3.364s], TBasePassVSTLightMapPolicyLQ [WorkerTime=3.351s], FDebugViewModeVS [WorkerTime=2.877s], FLumenCardPS<false> [WorkerTime=1.345s]
+[2022.09.06-12.58.13:802][340]LogShaderCompilers: Display: Worker (2/5) finished batch of 10 jobs in 71.599s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=12.331s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=11.212s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=10.741s], TBasePassPSTLightMapPolicyHQ [WorkerTime=8.054s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=7.210s], TBasePassPSTLightMapPolicyLQ [WorkerTime=5.361s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=4.599s], FLumenCardPS<true> [WorkerTime=3.414s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=3.336s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=2.107s]
+[2022.09.06-12.58.13:970][340]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.58.15:408][344]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-12.58.18:763][350]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.58.52:126][554]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:699][385]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:742][386]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:779][387]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:803][388]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:855][389]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:898][390]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:920][391]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.12:967][392]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:096][397]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:136][398]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:229][399]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:266][400]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:305][401]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:345][402]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:421][404]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:450][405]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.13:491][406]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.27:683][ 43]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.27:871][ 52]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.27:903][ 53]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.27:939][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.27:986][ 55]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:024][ 56]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:058][ 57]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:098][ 58]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:137][ 59]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:177][ 60]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:217][ 61]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:251][ 62]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:291][ 63]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:326][ 64]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:365][ 65]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:396][ 66]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:435][ 67]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:472][ 68]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:516][ 69]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.28:554][ 70]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.29:952][123]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:227][475]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:250][476]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:267][477]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:297][478]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:333][479]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:364][480]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:397][481]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:429][482]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:461][483]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:492][484]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:528][485]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:568][486]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:604][487]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:635][488]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:669][489]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:702][490]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:735][491]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:770][492]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:811][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:844][494]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:867][495]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:904][496]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:941][497]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.38:973][498]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:009][499]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:043][500]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:077][501]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:107][502]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:140][503]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:174][504]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:208][505]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:239][506]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:275][507]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:307][508]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:340][509]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:404][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:428][512]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:462][513]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:494][514]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:529][515]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:559][516]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:595][517]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:627][518]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:661][519]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:692][520]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:725][521]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:754][522]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:788][523]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:818][524]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:851][525]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:880][526]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:910][527]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:944][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.39:974][529]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:007][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:038][531]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:068][532]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:098][533]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:133][534]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:162][535]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:191][536]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:226][537]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:256][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:287][539]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:317][540]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:347][541]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:375][542]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:407][543]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:435][544]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:468][545]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:500][546]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:533][547]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:569][548]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.40:610][549]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:466][585]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:492][586]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:525][587]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:557][588]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:595][589]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:626][590]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:660][591]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:692][592]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:726][593]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:758][594]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:794][595]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:827][596]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:861][597]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.41:993][603]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.42:025][604]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.43:860][605]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Prefabs/Layout/Details/grass_LP.grass_LP
+[2022.09.06-12.59.44:266][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.06-12.59.44:924][605]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.09.06-12.59.45:143][605]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-12.59.45:411][605]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-13.00.02:338][605]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.06-13.00.02:338][605]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [15985ms] waiting for h/w. InstanceID=1
+[2022.09.06-13.00.02:338][605]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.008563s
+[2022.09.06-13.00.02:733][605]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004859s (0.505166s overbudget)
+[2022.09.06-13.00.02:841][605]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [grass_LP] - forcing default material instead.
+[2022.09.06-13.00.02:926][605]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7088
+[2022.09.06-13.00.03:506][606]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{900daf23-7710-4a02-b49e-77c28f98f664}, Name=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=56.45
+[2022.09.06-13.00.03:517][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.09.06-13.00.03:605][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.06-13.00.18:636][ 21]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Prefabs/Layout/Details/grass_LP) ...
+[2022.09.06-13.00.18:954][ 21]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.09.06-13.00.18:963][ 21]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 5C583A3803D02958779849FF401ECC409FC1D777), compiling. 
+[2022.09.06-13.00.19:155][ 21]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2652 in PCD3D_SM5, Default, SM5 (DDC key hash: A46A361AED74F55D65D395D4F0E0B414995FFAEB), compiling. 
+[2022.09.06-13.00.29:465][153]LogSlate: Window 'grass_LP' being destroyed
+[2022.09.06-13.00.29:491][153]LogSlate: Window 'grass_LP' being destroyed
+[2022.09.06-13.00.30:077][153]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-13.00.30:078][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-13.00.37:435][318]Cmd: DELETE
+[2022.09.06-13.00.37:435][318]Cmd: ACTOR DELETE
+[2022.09.06-13.00.41:231][318]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.06-13.00.41:245][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.06-13.00.41:250][318]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2022.09.06-13.00.41:379][319]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.00.54:340][892]LogEditorViewport: Clicking Background
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.06-13.01.11:288][646]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.06-13.01.11:316][646]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.01.11:316][646]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.11:316][646]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.11:317][646]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.01.11:317][646]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.11:317][646]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.11:317][646]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.01.12:454][649]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.09.06-13.01.19:849][ 85]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.09.06-13.01.19:850][ 85]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.09.06-13.01.19:850][ 85]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.09.06-13.01.19:850][ 85]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.06-13.01.19:879][ 85]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.01.19:879][ 85]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.19:879][ 85]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.19:879][ 85]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.01.19:881][ 85]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.19:881][ 85]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.19:881][ 85]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.01.20:628][ 90]LogContentStreaming: Texture pool size now 800 MB
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2022.09.06-13.01.26:047][412]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.06-13.01.26:103][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.01.26:103][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.26:103][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.26:104][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.01.26:104][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.26:104][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.26:104][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.01.26:107][412]LogContentStreaming: Texture pool size now 600 MB
+[2022.09.06-13.01.28:199][511]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.09.06-13.01.28:199][511]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.09.06-13.01.28:199][511]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.09.06-13.01.28:199][511]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.09.06-13.01.28:200][511]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.09.06-13.01.28:200][511]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.09.06-13.01.28:200][511]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.09.06-13.01.28:200][511]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.09.06-13.01.28:200][511]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.09.06-13.01.28:200][511]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.09.06-13.01.28:200][511]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.06-13.01.28:242][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.01.28:242][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.28:242][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.28:243][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.01.28:243][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.28:243][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.28:244][511]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.01.28:924][517]LogContentStreaming: Texture pool size now 800 MB
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.06-13.01.31:642][679]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.06-13.01.31:643][679]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.06-13.01.31:668][679]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.01.31:668][679]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.31:668][679]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.31:669][679]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.01.31:669][679]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.31:669][679]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.31:670][679]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.01.32:467][685]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.09.06-13.01.33:993][776]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.09.06-13.01.33:994][776]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.09.06-13.01.33:994][776]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.09.06-13.01.33:994][776]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.06-13.01.34:019][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.01.34:020][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.34:020][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.34:021][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.01.34:021][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.01.34:021][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.01.34:021][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.01.34:023][776]LogContentStreaming: Texture pool size now 800 MB
+[2022.09.06-13.01.35:859][850]LogEditorViewport: Clicking Background
+[2022.09.06-13.02.12:042][229]LogClient: High resolution screenshot saved as D:/unreal Projects/Valo/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2022.09.06-13.02.38:960][580]Cmd: r.ResetRenderTargetsExtent
+[2022.09.06-13.02.38:960][580]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2022.09.06-13.02.38:960][580]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2022.09.06-13.02.46:381][959]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.06-13.02.47:878][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-13.02.47:907][959]PIE: New page: PIE session: Valo (7 Sep 2022, 12:02:47 am)
+[2022.09.06-13.02.47:952][959]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.06-13.02.47:960][959]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.06-13.02.48:011][959]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Valo
+[2022.09.06-13.02.48:434][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.422813s)
+[2022.09.06-13.02.48:434][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Valo.Valo to /Game/UEDPIE_0_Valo.Valo (0.423571s)
+[2022.09.06-13.02.48:434][959]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.06-13.02.48:443][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.06-13.02.48:443][959]LogAIModule: Creating AISystem for world Valo
+[2022.09.06-13.02.48:444][959]LogPlayLevel: PIE: World Init took: (0.010364s)
+[2022.09.06-13.02.48:477][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.06-13.02.48:556][959]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.06-13.02.48:557][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-13.02.48:557][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-13.02.48:557][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-13.02.48:557][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-13.02.48:557][959]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-13.02.48:557][959]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.06-13.02.48:557][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-13.02.48:557][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-13.02.48:558][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.06-13.02.48:558][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.06-13.02.48:558][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.06-13.02.48:561][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.06-13.02.48:583][959]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2022.09.06-13.02.48:583][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.06-13.02.48:584][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.06-13.02.48:584][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.06-13.02.48:584][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.06-13.02.48:585][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.09.06-13.02.48:586][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.06-13.02.48:586][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.06-13.02.48:586][959]LogInit: FAudioDevice initialized.
+[2022.09.06-13.02.48:586][959]LogAudio: Display: Audio Device (ID: 2) registered with world 'Valo'.
+[2022.09.06-13.02.48:666][959]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.09.06-13.02.48:680][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.02.48:725][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.02.48:725][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.02.48:725][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.02.48:725][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.02.48:725][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.02.48:725][959]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.02.48:727][959]LogWorld: Bringing World /Game/UEDPIE_0_Valo.Valo up for play (max tick rate 60) at 2022.09.06-18.32.48
+[2022.09.06-13.02.49:213][959]LogWorld: Bringing up level for play took: 0.546403
+[2022.09.06-13.02.49:217][959]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.09.06-13.02.49:821][959]PIE: Server logged in
+[2022.09.06-13.02.49:822][959]PIE: Play in editor total start time 2.391 seconds.
+[2022.09.06-13.02.50:445][960]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087182 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2022.09.06-13.02.51:328][964]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.03.16:333][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Valo" FILE="../../../../../../unreal Projects/Valo/Content/Valo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-13.03.18:348][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.09.06-13.03.19:781][256]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.499405 seconds
+[2022.09.06-13.03.23:986][256]LogSavePackage: Moving output files for package: /Game/Valo
+[2022.09.06-13.03.23:988][256]LogSavePackage: Moving '../../../../../../unreal Projects/Valo/Saved/Valo3B7D68CA47000E376663AE9B3DF72BC3.tmp' to '../../../../../../unreal Projects/Valo/Content/Valo.umap'
+[2022.09.06-13.03.24:310][256]LogFileHelpers: No new changes to save!
+[2022.09.06-13.03.24:399][256]AssetCheck: New page: Asset Save: Valo
+[2022.09.06-13.03.24:471][256]LogContentValidation: Display: Validating World /Game/Valo.Valo
+[2022.09.06-13.05.24:428][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-13.05.24:465][645]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Valo
+[2022.09.06-13.05.24:483][645]LogWorld: UWorld::CleanupWorld for Valo, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-13.05.24:602][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-13.05.24:723][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-13.05.24:737][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-13.05.24:794][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.06-13.05.24:912][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.06-13.05.24:914][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.06-13.05.24:919][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-13.05.25:071][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.09.06-13.05.25:158][646]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.09.06-13.05.25:740][649]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.06.11:026][778]LogEditorViewport: Clicking Background
+[2022.09.06-13.06.38:674][212]LogEditorViewport: Clicking Background
+[2022.09.06-13.06.40:813][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Valo" FILE="../../../../../../unreal Projects/Valo/Content/Valo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.06-13.06.40:854][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.09.06-13.06.43:048][259]LogSavePackage: Moving output files for package: /Game/Valo
+[2022.09.06-13.06.43:048][259]LogSavePackage: Moving '../../../../../../unreal Projects/Valo/Saved/ValoCB685FF74404DC5B050D0E8386FA4731.tmp' to '../../../../../../unreal Projects/Valo/Content/Valo.umap'
+[2022.09.06-13.06.43:074][259]LogFileHelpers: No new changes to save!
+[2022.09.06-13.06.43:094][259]AssetCheck: New page: Asset Save: Valo
+[2022.09.06-13.06.43:094][259]LogContentValidation: Display: Validating World /Game/Valo.Valo
+[2022.09.06-13.06.58:057][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [outstairs] - forcing default material instead.
+[2022.09.06-13.06.58:058][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.06.58:058][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.06.58:058][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder] - forcing default material instead.
+[2022.09.06-13.06.58:059][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_pot1] - forcing default material instead.
+[2022.09.06-13.06.58:059][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [pots_Cylinder_001] - forcing default material instead.
+[2022.09.06-13.06.58:059][ 48]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [smallstairs_LP_smallstairsoutside] - forcing default material instead.
+[2022.09.06-13.07.01:683][196]Cmd: STAT FPS
+[2022.09.06-13.07.05:994][394]LogEditorViewport: Clicking Background
+[2022.09.06-13.07.39:999][189]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [15467ms] waiting for h/w. InstanceID=1
+[2022.09.06-13.07.40:509][189]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.06-13.07.40:509][189]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.09.06-13.07.40:663][189]LogWindows: Error: === Critical error: ===
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 934] 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: Rendering thread exception:
+[2022.09.06-13.07.40:663][189]LogWindows: Error: Fatal error!
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION 0x00000a98d902a5f0
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00000a98d902a5f0 UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa1d113630 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa1d104557 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa1d12b613 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa3b343a9d UnrealEditor-Core.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa3b343f3e UnrealEditor-Core.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa3b3442e1 UnrealEditor-Core.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa3ae867fb UnrealEditor-RenderCore.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa3ae8a1e8 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa3ba183ab UnrealEditor-Core.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa3ba113b0 UnrealEditor-Core.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa9dbe7034 KERNEL32.DLL!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: [Callstack] 0x00007ffa9dd22651 ntdll.dll!UnknownFunction []
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:663][189]LogWindows: Error: 
+[2022.09.06-13.07.40:740][189]LogThreadingWindows: Error: Runnable thread StallDetectorThread crashed.
+[2022.09.06-13.07.40:740][189]LogWindows: Error: HandleError re-entered.
+[2022.09.06-13.07.40:740][189]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.09.06-13.07.40:740][189]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.09.06-13.07.40:740][189]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.09.06-13.07.40:740][189]LogExit: Executing StaticShutdownAfterError
+[2022.09.06-13.07.40:971][189]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.09.06-13.07.40:971][189]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.09.06-13.07.40:971][189]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.09.06-13.07.41:065][189]Log file closed, 09/06/22 18:37:41
